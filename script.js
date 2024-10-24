@@ -1,7 +1,7 @@
 
 // ------------------- Hero section Buttons --------------------
 document.getElementById("myButton1").onclick = function (){
-    location.href = "./navigation/1product.html#mirrorless"
+    location.href = "./Navigation/1product.html#mirrorless"
 }
 document.getElementById("myButton2").onclick = function (){
     location.href = "./navigation/1product.html#dslr"
