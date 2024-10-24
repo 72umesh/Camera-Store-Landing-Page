@@ -1,0 +1,26 @@
+body{
+    min-height: 100vh;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#nav-bar > ul{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-around;
+    border: 1px solid;
+
+    padding: 10px;
+    font-size: 2rem;
+
+    list-style: none;
+}
+#nav-bar a{
+    text-decoration: none;
+}
+.navbar-nav .nav-item{
+    font-size: 2rem;
+    margin: 0 30px;
+}
+.navbar-brand{
+    font-size: 2.5rem;
+}
