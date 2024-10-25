@@ -13,7 +13,8 @@ document.getElementById("myButton4").onclick = function (){
     location.href = "./navigation/1product.html#action"
 }
 document.getElementById("myButton5").onclick = function (){
+    
+    const url ='https://72umesh.github.io/Camera-Store-Landing-Page/navigation/1product.html#drones'
+    console.log(url);
     location.href = url;
-    url ='https://72umesh.github.io/Camera-Store-Landing-Page/navigation/1product.html#drones'
-    console.log(url)
 }
