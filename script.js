@@ -7,7 +7,7 @@ document.getElementById("myButton2").onclick = function (){
     location.href = "./navigation/1product.html#dslr"
 }
 document.getElementById("myButton3").onclick = function (){
-    location.href = "./navigation/1product.html#film"
+    location.href = "./Navigation/1product.html#film"
 }
 document.getElementById("myButton4").onclick = function (){
     location.href = "./navigation/1product.html#action"
