@@ -13,5 +13,5 @@ document.getElementById("myButton4").onclick = function (){
     location.href = "./navigation/1product.html#action"
 }
 document.getElementById("myButton5").onclick = function (){
-    location.href = "https://72umesh.github.io/Camera-Store-Landing-Page/Navigation/1product.html#drones"
+    location.href = "https://72umesh.github.io/Camera-Store-Landing-Page/navigation/1product.html#drones"
 }
